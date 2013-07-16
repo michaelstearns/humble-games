@@ -4684,9 +4684,15 @@ var games = [
         },
         "drm": {
             "steam": false,
-            "desura": false,
+            "desura": true,
             "gog": false,
             "drm-free": true
+        },
+        "URL": {
+            "review": "http://www.horriblenight.com/40862/tiny-barbarian-dx-episode-1-review-good-things-do-come-in-tiny-packages",
+            "steam": "http://steamcommunity.com/sharedfiles/filedetails/?id=110272647",
+            "desura": "http://www.desura.com/games/tiny-barbarian-dx",
+            "developer": "http://www.tinybarbarian.com/"
         },
         "notes": "Buy the first episode and get the rest for free when they are released. Mac port currently in development."
     },
